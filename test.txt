@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-this is chanhge from local
-=======
-this is my change
-loxo
-
->>>>>>> c83e8cdb27fe834e932dcc003ab0e63f6c73ce2c

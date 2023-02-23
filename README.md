@@ -1,2 +1,2 @@
-# my-first-repo
-First REPO for Learning
+#!/bin/bash
+echo "HELLO"
